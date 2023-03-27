@@ -1,5 +1,5 @@
 // Créez une carte Leaflet centrée sur une position donnée
-var map = L.map('map').setView([44.826, -0.555], 7,5);
+var map = L.map('map').setView([44.826, -0.555], 13);
 
 // Ajoutez une couche de tuiles OpenStreetMap à la carte
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
