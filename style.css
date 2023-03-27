@@ -1,0 +1,9 @@
+h1 {
+    text-align:center;
+}
+#map {
+    width : 600px;
+    height : 600px;
+    margin-left: auto;
+    margin-right: auto
+}
